@@ -62,6 +62,8 @@
   * [BOJ] - 백준 
   * [PGS] - 프로그래머스
 
+- ## [참고용 저번학기 레포](https://github.com/GDSCINHA/2022_1-Algorithm-Study)
+
 <br/><br/>
 
 
