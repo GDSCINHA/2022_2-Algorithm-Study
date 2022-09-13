@@ -1,5 +1,6 @@
-# 📝2022_2-Algorithm-Study
-🔰 2022 2학기 Algorithm Study
+# 📝 2022년 2학기 Algorithm Study
+
+## [📌 이번주 문제](./%EC%A3%BC%EC%B0%A8%EB%B3%84%EB%AC%B8%EC%A0%9C.md)
 
 <!---------->
 <!-- 목차 -->
