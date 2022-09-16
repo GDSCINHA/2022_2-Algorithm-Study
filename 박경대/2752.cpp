@@ -5,7 +5,7 @@ int main(){
     int arr[3] = {};
     for(int i=0;i<3;i++){
         cin>>arr[i];
-    }
+    } 
     int max = 0;
     int min = 1000001;
     int mid;
